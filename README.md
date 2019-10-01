@@ -4,6 +4,8 @@ Para você instalar o projeto em seu ambiente siga os passos:
 
 - Tenha o Xampp instalado: https://www.apachefriends.org/pt_br/download.html
 
+- Trocar a porta do xampp para a 8080 se necessário.
+
 - Clone o projeto no disco C:\xampp\htdocs , o nome da pasta clonada tem que ser FrontEnd-Buscap para funcionar.
 
 - Abra o Xampp e start o MySQL e o Apache;
